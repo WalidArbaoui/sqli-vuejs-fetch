@@ -7,3 +7,9 @@ import MangaList from "@/components/MangaList.vue";
     <MangaList />
   </main>
 </template>
+
+<style scoped>
+main {
+  padding: 24px;
+}
+</style>
